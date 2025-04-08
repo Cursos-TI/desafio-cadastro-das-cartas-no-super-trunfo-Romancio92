@@ -55,7 +55,7 @@ int main() {
     printf(" ÁREA: %.2f km² \n PIB: %.2f bilhões de reais \n Nº PONTOS TURÍSTICOS: %d \n", area1, pib1, pontoturistico1);
 
     printf("\n CARTA_2 \n ESTADO: %c \n CÓDIGO DO ESTADO: %s \n NOME DA CIDADE: %s \n POPULAÇÃO: %d \n", estado2, codigo2, cidade2, populacao2);
-    printf("\n ÁREA: %.2f km² \n PIB: %.2f bilhões de reais \n Nº PONTOS TURÍSTICOS: %d \n", area2, pib2, pontoturistico2);
+    printf(" ÁREA: %.2f km² \n PIB: %.2f bilhões de reais \n Nº PONTOS TURÍSTICOS: %d \n", area2, pib2, pontoturistico2);
 //finalizar a finção principal
     return 0;
 
